@@ -1,5 +1,5 @@
 # Código Creativo | Cuarto Semestre | 2021
-### __Licenciatura en Arquitectura de Interiorees__  
+### __Licenciatura en Diseño Industrial__  
 ### __CENTRO Diseño, Cine y Televisión__  
 
 
