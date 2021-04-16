@@ -47,8 +47,7 @@ Aplicar conocimientos de programación para diseñar y construir modelos 3D de o
 
 # Entregas y actividades 
 
-[Repaso
-
+- [X] Ejercicio de Repaso 16.IV.21
 - [ ] 30.04.21 - Primera entrega parcial 
 - [ ] 21.05.21 - Segunda entrega parcial
 - [ ] 04.06.21 - Entrega final 
