@@ -26,8 +26,10 @@ Aplicar conocimientos de programación para diseñar y construir modelos 3D de o
 ## Sesiones 
 
 
-- [ ] [Sesión 01 | Repaso - 14.04.21 ]()
-- [ ] [Sesión 02 | Entorno 3d con Processing - 16.04.21 ]()
+- [X] Sesión 01 | Repaso - 14.04.21
+  [Código 1](https://gist.github.com/MarianneTeixido/f1a52af78ebad633e78dd06e70939c2c)  
+  [Código 2](https://gist.github.com/MarianneTeixido/ac192f5a38922122419736c06412e3a6)
+- [ ] [Sesión 02 | Entorno 3d con Processing - 16.04.21 ](https://processing.org/tutorials/p3d/)
 - [ ] [Sesión 03 | 21.04.21]()
 - [ ] [Sesión 04 | 23.04.21]()
 - [ ] [Sesión 05 | 28.04.21]()
@@ -44,6 +46,8 @@ Aplicar conocimientos de programación para diseñar y construir modelos 3D de o
 - [ ] [Sesión 16 | Proyecto final 04.06.21]()
 
 # Entregas y actividades 
+
+[Repaso
 
 - [ ] 30.04.21 - Primera entrega parcial 
 - [ ] 21.05.21 - Segunda entrega parcial
@@ -69,7 +73,10 @@ Cada clase está dividida en dos partes:
 - Ejercicios y entregas
 - Proyecto final 
 
-## Bibliografía
+## Recursos 
+[PeasyCam](http://mrfeinberg.com/peasycam/)
+
+## [Bibliografía](https://drive.google.com/drive/folders/1AL_OvQOKRKF1Be9hGrXtFDG8qFC3daiQ?usp=sharing)
 
 Bohnacker, H., Groß, B., & Laub, J. (2009). Generative design: visualize, program and create with processing. New York: Princeton Architectural Press.  
 Reas, C., McWilliams, C., & LUST. (2010). Form + Code: in design, art and architecture. New York:Princeton Architectural Press.  
