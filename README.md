@@ -36,7 +36,7 @@ Aplicar conocimientos de programación para diseñar y construir modelos 3D de o
   [Código 2 - Entorno 3D + sin cos](https://gist.github.com/MarianneTeixido/7089e9f044745dc0dd54c13d15299556)  
   
   
-- [ ] Sesión 03 | Repaso map() if() beginShape 21.04.21  
+- [X] Sesión 03 | Repaso map() if() beginShape 21.04.21  
   [beginShape documentación](https://processing.org/reference/beginShape_.html)  
   [Código3 - beginShape](https://gist.github.com/MarianneTeixido/ee23f860729b777bb269d153bad87f16)
     
