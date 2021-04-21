@@ -26,28 +26,42 @@ Aplicar conocimientos de programación para diseñar y construir modelos 3D de o
 ## Sesiones 
 
 
-- [X] Sesión 01 | Repaso - 14.04.21
+- [X] Sesión 01 | Repaso - 14.04.21  
   [Código 1](https://gist.github.com/MarianneTeixido/f1a52af78ebad633e78dd06e70939c2c)  
-  [Código 2](https://gist.github.com/MarianneTeixido/ac192f5a38922122419736c06412e3a6)
-- [ ] [Sesión 02 | Entorno 3d con Processing - 16.04.21 ](https://processing.org/tutorials/p3d/)
-- [ ] [Sesión 03 | 21.04.21]()
-- [ ] [Sesión 04 | 23.04.21]()
-- [ ] [Sesión 05 | 28.04.21]()
-- [ ] [Sesión 06 | Ejercicio 30.04.21]()
-- [ ] [Sesión 07 | 05.05.21]()
-- [ ] [Sesión 08 | 07.05.21]()
-- [ ] [Sesión 09 | 12.05.21]()
-- [ ] [Sesión 10 | 14.05.21]()
-- [ ] [Sesión 11 | 19.05.21]()
-- [ ] [Sesión 12 | Ejercicio - 21.05.21]()
-- [ ] [Sesión 13 | 26.05.21]()
-- [ ] [Sesión 14 | 28.05.21]()
-- [ ] [Sesión 15 | 02.06.21]()
-- [ ] [Sesión 16 | Proyecto final 04.06.21]()
+  [Código 1_2](https://gist.github.com/MarianneTeixido/ac192f5a38922122419736c06412e3a6)  
+  
+  
+- [X] Sesión 02 | Entorno 3d con Processing - 16.04.21   
+  [P3D documentación](https://processing.org/tutorials/p3d/)  
+  [Código 2 - Entorno 3D + sin cos](https://gist.github.com/MarianneTeixido/7089e9f044745dc0dd54c13d15299556)  
+  
+  
+- [ ] Sesión 03 | Repaso map() if() beginShape 21.04.21  
+  [beginShape documentación](https://processing.org/reference/beginShape_.html)  
+  [Código3 - beginShape](https://gist.github.com/MarianneTeixido/ee23f860729b777bb269d153bad87f16)
+    
+  
+- [ ] Sesión 04 | Mesh - 23.04.21  
+  Entrega ejercicio beginShape 
+
+
+- [ ] Sesión 05 | 28.04.21
+- [ ] Sesión 06 | Ejercicio 30.04.21
+- [ ] Sesión 07 | 05.05.21
+- [ ] Sesión 08 | 07.05.21
+- [ ] Sesión 09 | 12.05.21
+- [ ] Sesión 10 | 14.05.21
+- [ ] Sesión 11 | 19.05.21
+- [ ] Sesión 12 | Ejercicio - 21.05.21
+- [ ] Sesión 13 | 26.05.21
+- [ ] Sesión 14 | 28.05.21
+- [ ] Sesión 15 | 02.06.21
+- [ ] Sesión 16 | Proyecto final 04.06.21
 
 # Entregas y actividades 
 
 - [X] Ejercicio de Repaso 16.IV.21
+- [ ] Ejercicio beginShape 23.IV.21
 - [ ] 30.04.21 - Primera entrega parcial 
 - [ ] 21.05.21 - Segunda entrega parcial
 - [ ] 04.06.21 - Entrega final 
